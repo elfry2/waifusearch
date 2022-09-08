@@ -21,12 +21,12 @@ define(
 
 define(
     'DEFAULT_BACKGROUND_IMAGE_URL',
-    'https://images.alphacoders.com/124/1249989.png'
+    'https://images2.alphacoders.com/122/1223474.png'
 );
 
 define(
     'DEFAULT_BACKGROUND_IMAGE_SOURCE_URL',
-    'https://wall.alphacoders.com/big.php?i=1249989'
+    'https://wall.alphacoders.com/big.php?i=1223474'
 );
 
 define(
